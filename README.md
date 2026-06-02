@@ -69,3 +69,13 @@ python main.py
 2. Pieces fall to the lowest available position.
 3. The first player to connect four pieces horizontally, vertically, or diagonally wins the round.
 4. The game tracks scores across multiple rounds.
+
+## Screenshots
+
+<img width="872" height="917" alt="pic1" src="https://github.com/user-attachments/assets/6afd9df5-b4b7-4bb5-9f1e-6fa5483117c8" />
+
+<img width="873" height="910" alt="pic2" src="https://github.com/user-attachments/assets/be10f46f-676a-4563-86d8-5663ec758ed3" />
+
+<img width="876" height="920" alt="pic3" src="https://github.com/user-attachments/assets/9047a443-9485-431c-8a30-f4fa3347997d" />
+
+<img width="622" height="413" alt="pic4" src="https://github.com/user-attachments/assets/887d8020-ff80-4cc8-8028-e348bbe1457a" />
