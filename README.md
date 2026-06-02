@@ -72,10 +72,21 @@ python main.py
 
 ## Screenshots
 
-<img width="872" height="917" alt="pic1" src="https://github.com/user-attachments/assets/6afd9df5-b4b7-4bb5-9f1e-6fa5483117c8" />
+<p align="center">
+  <img width="500" height="526" alt="pic1" src="https://github.com/user-attachments/assets/930a5723-0c04-4c7e-aacf-e3d3b4c5a0c9" />
+</p>
+<br>
+<p align="center">
+  <img width="500" height="526" alt="pic2" src="https://github.com/user-attachments/assets/939f5cf1-b11a-4d11-b6da-3f408d45c1f8" />
+</p>
+<br>
+<p align="center">
+  <img width="500" height="526" alt="pic3" src="https://github.com/user-attachments/assets/57e9ad12-cd6e-4602-bf98-6de6f88ddc75" />
+</p>
+<br>
+<p align="center">
+  <img width="300" height="200" alt="pic4" src="https://github.com/user-attachments/assets/be185161-2e0d-450b-9057-c39298593bc3" />
 
-<img width="873" height="910" alt="pic2" src="https://github.com/user-attachments/assets/be10f46f-676a-4563-86d8-5663ec758ed3" />
+</p>
 
-<img width="876" height="920" alt="pic3" src="https://github.com/user-attachments/assets/9047a443-9485-431c-8a30-f4fa3347997d" />
 
-<img width="622" height="413" alt="pic4" src="https://github.com/user-attachments/assets/887d8020-ff80-4cc8-8028-e348bbe1457a" />
